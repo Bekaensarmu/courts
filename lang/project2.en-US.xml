@@ -1,0 +1,1032 @@
+<ew-language date="2024/2/29" id="en-US" author="e.World Technology Limited">
+  <project>
+    <phrase id="footertext" value="&amp;copy;Court System. All rights reserved." />
+    <menu id="55">
+      <phrase id="menutext" value="ይግባኝ " />
+    </menu>
+    <menu id="54">
+      <phrase id="menutext" value="ውሳኔ " />
+    </menu>
+    <menu id="53">
+      <phrase id="menutext" value="ዳሽ ቦርድ" />
+    </menu>
+    <menu id="52" />
+    <menu id="13">
+      <phrase id="menutext" value="የተጠቃሚዎች ዝርዝር" />
+    </menu>
+    <menu id="9">
+      <phrase id="menutext" value="የተጠቃሚ ፍቃድ" />
+    </menu>
+    <menu id="10">
+      <phrase id="menutext" value="የተጠቃሚ ደረጃ" />
+    </menu>
+    <menu id="11">
+      <phrase id="menutext" value="ተጠቃሚ" />
+    </menu>
+    <menu id="15">
+      <phrase id="menutext" value="ወታደራዊ ፍርድ ቤት" />
+    </menu>
+    <menu id="46">
+      <phrase id="menutext" value="ልዩ ልዩ መዝገብ" />
+    </menu>
+    <menu id="6">
+      <phrase id="menutext" value="ፍርድ ቤት" />
+    </menu>
+    <menu id="2">
+      <phrase id="menutext" value="ጠበቃ" />
+    </menu>
+    <menu id="8">
+      <phrase id="menutext" value="ዳኛ" />
+    </menu>
+    <menu id="3">
+      <phrase id="menutext" value="ማረሚያ ቤት" />
+    </menu>
+    <menu id="16">
+      <phrase id="menutext" value="የፍርድ ቤት መዝገብ" />
+    </menu>
+    <menu id="4">
+      <phrase id="menutext" value="ክስ ቻርጅ " />
+    </menu>
+    <menu id="5">
+      <phrase id="menutext" value="አዲስ መዝገብ" />
+    </menu>
+    <menu id="12">
+      <phrase id="menutext" value="ምስክር" />
+    </menu>
+    <menu id="7">
+      <phrase id="menutext" value="ውሳኔ" />
+    </menu>
+    <menu id="45">
+      <phrase id="menutext" value="ይግባኝ " />
+    </menu>
+    <menu id="1">
+      <phrase id="menutext" value="ቀጠሮ" />
+    </menu>
+    <menu id="33">
+      <phrase id="menutext" value="ሪፖርት" />
+    </menu>
+    <menu id="47">
+      <phrase id="menutext" value="የመዝገብ ዝርዝር" />
+    </menu>
+    <menu id="48">
+      <phrase id="menutext" value="ከፍርድ ቤቶች ጋር የተገናኙ" />
+    </menu>
+    <menu id="49">
+      <phrase id="menutext" value="የቀጠሮ ዝርዝር" />
+    </menu>
+    <menu id="50">
+      <phrase id="menutext" value="የውሳኔ ዝርዝር" />
+    </menu>
+    <menu id="51">
+      <phrase id="menutext" value="የተከላካይ ጠበቃ ስም" />
+    </menu>
+    <table id="appointments">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="ቀን" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="መግለጫ" />
+      </field>
+      <field id="case_hear_id">
+        <phrase id="fldcaption" value="ችሎት ቁጥር" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ተመዘገበ" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="ተሻሻለ" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="ማብራርያ" />
+      </field>
+    </table>
+    <table id="attorneys">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="attorneyid">
+        <phrase id="fldcaption" value="የጠበቃ መ/ቁ " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ስም " />
+      </field>
+      <field id="phone">
+        <phrase id="fldcaption" value="ስልክ ቁጥር  " />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="አድራሽ" />
+      </field>
+      <field id="state">
+        <phrase id="fldcaption" value="ክልል " />
+      </field>
+      <field id="emptype">
+        <phrase id="fldcaption" value="የሰራተኛ ዓይነት" />
+        <phrase id="fldtagvalue1" value="ወታደር" />
+        <phrase id="fldtagcaption1" value="ወታደር" />
+        <phrase id="fldtagvalue2" value="ስቪል" />
+        <phrase id="fldtagcaption2" value="ስቪል" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="ተሻሻለ" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="bars">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="አድራሻ" />
+      </field>
+      <field id="state">
+        <phrase id="fldcaption" value="ክልል" />
+      </field>
+      <field id="location">
+        <phrase id="fldcaption" value="ቦታ" />
+      </field>
+      <field id="dihiresira">
+        <phrase id="fldcaption" value="ድህረ ክስ ስራዎች" />
+      </field>
+      <field id="genzebtype">
+        <phrase id="fldcaption" value="የገንዘብ ዓይነት" />
+      </field>
+      <field id="birramount">
+        <phrase id="fldcaption" value="የገንዘብ መጠን" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበ ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="case_charges">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="deptname">
+        <phrase id="fldcaption" value="ክፍል" />
+      </field>
+      <field id="mid">
+        <phrase id="fldcaption" value="መ/ቁጥር" />
+      </field>
+      <field id="rank">
+        <phrase id="fldcaption" value="ማዕረግ" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ስም" />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="አድራሻ" />
+      </field>
+      <field id="state">
+        <phrase id="fldcaption" value="ክልል" />
+      </field>
+      <field id="crimedescription">
+        <phrase id="fldcaption" value="ማብራርያ" />
+      </field>
+      <field id="crimedate">
+        <phrase id="fldcaption" value="ወንጀል የተፈፀመበት ቀን" />
+      </field>
+      <field id="chargedate">
+        <phrase id="fldcaption" value="የተከሰሰበት ቀን " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበ ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="case_hears">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="melequtir">
+        <phrase id="fldcaption" value="መ/ቁጥር " />
+      </field>
+      <field id="ranke">
+        <phrase id="fldcaption" value="ማዕረግ " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="የተከሳሽ ስም" />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="filenumber">
+        <phrase id="fldcaption" value="መዝገብ ቁጥር " />
+      </field>
+      <field id="firdbet">
+        <phrase id="fldcaption" value="ፍርድ ቤት" />
+      </field>
+      <field id="chilotname">
+        <phrase id="fldcaption" value="የችሎት ስም" />
+      </field>
+      <field id="kirihidet">
+        <phrase id="fldcaption" value="የክርክሩ ሂደት " />
+      </field>
+      <field id="yekisaynet">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="keteroreason">
+        <phrase id="fldcaption" value="የቀጠሮ ምክንያት" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="ፆታ" />
+        <phrase id="fldtagvalue1" value="ወንድ" />
+        <phrase id="fldtagcaption1" value="ወንድ" />
+        <phrase id="fldtagvalue2" value="ሴት" />
+        <phrase id="fldtagcaption2" value="ሴት" />
+      </field>
+      <field id="tekesashbizat">
+        <phrase id="fldcaption" value="ብዛት" />
+      </field>
+      <field id="keterodate">
+        <phrase id="fldcaption" value="የቀጠሮ ቀን" />
+      </field>
+      <field id="keterodescription">
+        <phrase id="fldcaption" value="የቀጠሮ ማብራርያ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ፋይሉ የተከፈተበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="courts">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="courtid">
+        <phrase id="fldcaption" value="መለያ " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ስም" />
+      </field>
+      <field id="worktype">
+        <phrase id="fldcaption" value="የስራ መደብ" />
+      </field>
+      <field id="yetefekedebizat">
+        <phrase id="fldcaption" value="በአቋም የተፈቀደ " />
+      </field>
+      <field id="yale">
+        <phrase id="fldcaption" value="ያለ" />
+      </field>
+      <field id="yegodele">
+        <phrase id="fldcaption" value="የጎደለ " />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበ ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="decisions">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="decisiondate">
+        <phrase id="fldcaption" value="የውሳኔ ቀን " />
+      </field>
+      <field id="decisiontype">
+        <phrase id="fldcaption" value="የውሳኔ ዓይነት " />
+      </field>
+      <field id="kistype">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ" />
+      </field>
+      <field id="chilot">
+        <phrase id="fldcaption" value="ችሎት" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበ ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="judges">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="judgeid">
+        <phrase id="fldcaption" value="መ/ቁጥር " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ስም " />
+      </field>
+      <field id="courttyep">
+        <phrase id="fldcaption" value="ፍርድ ቤት " />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="አድራሻ " />
+      </field>
+      <field id="state">
+        <phrase id="fldcaption" value="ክልል " />
+      </field>
+      <field id="emptype">
+        <phrase id="fldcaption" value="ዓይነት " />
+        <phrase id="fldtagvalue1" value="ወታደር" />
+        <phrase id="fldtagcaption1" value="ወታደር" />
+        <phrase id="fldtagvalue2" value="ስቪል" />
+        <phrase id="fldtagcaption2" value="ስቪል" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበበት ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="userlevelpermissions">
+      <field id="userlevelid">
+        <phrase id="fldcaption" value="የተጠታሚ ደረጃ በቁጥር " />
+      </field>
+      <field id="_tablename">
+        <phrase id="fldcaption" value="የቴብል ዓይነት" />
+      </field>
+      <field id="_permission">
+        <phrase id="fldcaption" value="ፍቃድ" />
+      </field>
+    </table>
+    <table id="userlevels">
+      <field id="userlevelid">
+        <phrase id="fldcaption" value="የተጠታሚ ደረጃ በቁጥር" />
+      </field>
+      <field id="userlevelname">
+        <phrase id="fldcaption" value="የተጠታሚ ደረጃ በስም " />
+      </field>
+    </table>
+    <table id="users">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ስም" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="ኢሜል" />
+      </field>
+      <field id="_password">
+        <phrase id="fldcaption" value="የይለፍ ቃል" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="መገለጫ" />
+      </field>
+      <field id="current_team_id">
+        <phrase id="fldcaption" value="ሚና" />
+        <phrase id="fldtagvalue1" value="-2" />
+        <phrase id="fldtagcaption1" value="Anonymous" />
+        <phrase id="fldtagvalue2" value="-1" />
+        <phrase id="fldtagcaption2" value="Administrator" />
+        <phrase id="fldtagvalue3" value="0" />
+        <phrase id="fldtagcaption3" value="Default" />
+        <phrase id="fldtagvalue4" value="1" />
+        <phrase id="fldtagcaption4" value="Add" />
+        <phrase id="fldtagvalue5" value="2" />
+        <phrase id="fldtagcaption5" value="View" />
+        <phrase id="fldtagvalue6" value="3" />
+        <phrase id="fldtagcaption6" value="Edit" />
+        <phrase id="fldtagvalue7" value="4" />
+        <phrase id="fldtagcaption7" value="Delete" />
+      </field>
+      <field id="profile_photo_path">
+        <phrase id="fldcaption" value="ፎቶ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበበት ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+    </table>
+    <table id="wittnesses">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="wittnessid">
+        <phrase id="fldcaption" value="መ/ቁጥር" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ሽም " />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="አድራሻ " />
+      </field>
+      <field id="state">
+        <phrase id="fldcaption" value="ክልል " />
+      </field>
+      <field id="wittnesstype">
+        <phrase id="fldcaption" value="የማን?" />
+        <phrase id="fldtagvalue1" value="የተከሳሽ ምስክር" />
+        <phrase id="fldtagcaption1" value="የተከሳሽ ምስክር" />
+        <phrase id="fldtagvalue2" value="የከሳሽ ምስክር" />
+        <phrase id="fldtagcaption2" value="የከሳሽ ምስክር" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን " />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="appeal">
+      <field id="appealid">
+        <phrase id="fldcaption" value="ቀ/ወ/መ/ቁ " />
+      </field>
+      <field id="appealdate">
+        <phrase id="fldcaption" value="የይግባኝ ቀን" />
+      </field>
+      <field id="mid">
+        <phrase id="fldcaption" value="መ/ቁ " />
+      </field>
+      <field id="rank">
+        <phrase id="fldcaption" value="ማዕረግ" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ሰም " />
+      </field>
+      <field id="deptname">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="halafinet">
+        <phrase id="fldcaption" value="ሃላፊነት" />
+      </field>
+      <field id="crimstate">
+        <phrase id="fldcaption" value="የወንጀሉ ድንጋጌ" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ቀ/ው/ፍ/ቤት ውሳኔ " />
+      </field>
+      <field id="midib">
+        <phrase id="fldcaption" value="ምድብ ችሎት" />
+      </field>
+      <field id="appealask">
+        <phrase id="fldcaption" value="ይግባኝ ጠያቂ አካል " />
+        <phrase id="fldtagvalue1" value="አቃቤ ህግ" />
+        <phrase id="fldtagcaption1" value="አቃቤ ህግ" />
+        <phrase id="fldtagvalue2" value="ተከሳሽ በራሱ" />
+        <phrase id="fldtagcaption2" value="ተከሳሽ በራሱ" />
+        <phrase id="fldtagvalue3" value="ተከሳሽ በጠበቃ" />
+        <phrase id="fldtagcaption3" value="ተከሳሽ በጠበቃ" />
+        <phrase id="fldtagvalue4" value="አቃቤ ህግ እና ተከሳሽ" />
+        <phrase id="fldtagcaption4" value="አቃቤ ህግ እና ተከሳሽ" />
+      </field>
+      <field id="appealdescription">
+        <phrase id="fldcaption" value="የይግባኝ ምክንያት  " />
+        <phrase id="fldtagvalue1" value="በቅጣት" />
+        <phrase id="fldtagcaption1" value="በቅጣት" />
+        <phrase id="fldtagvalue2" value="በጥፋተኝነት" />
+        <phrase id="fldtagcaption2" value="በጥፋተኝነት" />
+        <phrase id="fldtagvalue3" value="በቅጣት እና በጥፋተኝነት" />
+        <phrase id="fldtagcaption3" value="በቅጣት እና በጥፋተኝነት" />
+      </field>
+      <field id="appealdecision">
+        <phrase id="fldcaption" value="የይግባኝ ሰሚ ፍ/ቤት ውሳኔ" />
+        <phrase id="fldtagvalue1" value="በማፅናት" />
+        <phrase id="fldtagcaption1" value="በማፅናት" />
+        <phrase id="fldtagvalue2" value="በማሻሻል" />
+        <phrase id="fldtagcaption2" value="በማሻሻል" />
+        <phrase id="fldtagvalue3" value="በነፃ" />
+        <phrase id="fldtagcaption3" value="በነፃ" />
+        <phrase id="fldtagvalue4" value="በ195/1 መሰረት የተዘጋ" />
+        <phrase id="fldtagcaption4" value="በ195/1 መሰረት የተዘጋ" />
+        <phrase id="fldtagvalue5" value="ወደ ስር ፍ/ቤት የተመለሰ" />
+        <phrase id="fldtagcaption5" value="ወደ ስር ፍ/ቤት የተመለሰ" />
+        <phrase id="fldtagvalue6" value="በ193/ መሰረት የተዘጋ" />
+        <phrase id="fldtagcaption6" value="በ193/ መሰረት የተዘጋ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ውሳኔ የተሰጠበት ቀን" />
+      </field>
+      <field id="crimedate">
+        <phrase id="fldcaption" value="ውሳኔ የተላከበት ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+    </table>
+    <table id="specialfiles">
+      <field id="_12d512dd">
+        <phrase id="fldcaption" value="ዕዝ" />
+      </field>
+      <field id="_12e8127d120e12751235121d">
+        <phrase id="fldcaption" value="የችሎት ስም" />
+      </field>
+      <field id="_12e812ad122d12ad1229120212f01275">
+        <phrase id="fldcaption" value="የክርክሩ ሂደት" />
+      </field>
+      <field id="_12e812ad123512d312ed12901275">
+        <phrase id="fldcaption" value="የክስ ዓይነት" />
+      </field>
+      <field id="_12e812401320122e121d12ad129512eb1275">
+        <phrase id="fldcaption" value="የቀጠሮ ምክንያት" />
+      </field>
+      <field id="_12e812cd1233129412d312ed12901275">
+        <phrase id="fldcaption" value="የውሳኔ ዓይነት" />
+      </field>
+      <field id="_121b12d51228130d">
+        <phrase id="fldcaption" value="ማዕረግ" />
+      </field>
+      <field id="_121b1265122b122d12eb">
+        <phrase id="fldcaption" value="ማብራርያ" />
+      </field>
+      <field id="_12e81270121812d8130812601260127512401295">
+        <phrase id="fldcaption" value="የተመዘገበበትቀን" />
+      </field>
+      <field id="_12e81270123b123b12081260127512401295">
+        <phrase id="fldcaption" value="የተሻሻለበትቀን" />
+      </field>
+      <field id="_121812dd130b1262">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+      <field id="sid">
+        <phrase id="fldcaption" value="sid" />
+      </field>
+    </table>
+    <table id="report2">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="melequtir">
+        <phrase id="fldcaption" value="መ/ቁጥር " />
+      </field>
+      <field id="filenumber">
+        <phrase id="fldcaption" value="መዝገብ ቁጥር " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="የተከሳሽ ስም" />
+      </field>
+      <field id="yekisaynet">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="chilotname">
+        <phrase id="fldcaption" value="የችሎት ስም" />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="keteroreason">
+        <phrase id="fldcaption" value="የቀጠሮ ምክንያት" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ፋይሉ የተከፈተበት ቀን " />
+      </field>
+      <field id="kirihidet">
+        <phrase id="fldcaption" value="የክርክሩ ሂደት " />
+      </field>
+      <field id="ranke">
+        <phrase id="fldcaption" value="ማዕረግ " />
+      </field>
+      <field id="firdbet">
+        <phrase id="fldcaption" value="ፍርድ ቤት" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="ፆታ" />
+        <phrase id="fldtagvalue1" value="ወንድ" />
+        <phrase id="fldtagcaption1" value="ወንድ" />
+        <phrase id="fldtagvalue2" value="ሴት" />
+        <phrase id="fldtagcaption2" value="ሴት" />
+      </field>
+      <field id="tekesashbizat">
+        <phrase id="fldcaption" value="ብዛት" />
+      </field>
+      <field id="keterodate">
+        <phrase id="fldcaption" value="የቀጠሮ ቀን" />
+      </field>
+      <field id="keterodescription">
+        <phrase id="fldcaption" value="የቀጠሮ ማብራርያ" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="report3">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="melequtir">
+        <phrase id="fldcaption" value="መ/ቁጥር " />
+      </field>
+      <field id="ranke">
+        <phrase id="fldcaption" value="ማዕረግ " />
+      </field>
+      <field id="filenumber">
+        <phrase id="fldcaption" value="መዝገብ ቁጥር " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="የተከሳሽ ስም" />
+      </field>
+      <field id="yekisaynet">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="kirihidet">
+        <phrase id="fldcaption" value="የክርክሩ ሂደት " />
+      </field>
+      <field id="chilotname">
+        <phrase id="fldcaption" value="የችሎት ስም" />
+      </field>
+      <field id="firdbet">
+        <phrase id="fldcaption" value="ፍርድ ቤት" />
+      </field>
+      <field id="keteroreason">
+        <phrase id="fldcaption" value="የቀጠሮ ምክንያት" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="ፆታ" />
+        <phrase id="fldtagvalue1" value="ወንድ" />
+        <phrase id="fldtagcaption1" value="ወንድ" />
+        <phrase id="fldtagvalue2" value="ሴት" />
+        <phrase id="fldtagcaption2" value="ሴት" />
+      </field>
+      <field id="tekesashbizat">
+        <phrase id="fldcaption" value="ብዛት" />
+      </field>
+      <field id="keterodate">
+        <phrase id="fldcaption" value="የቀጠሮ ቀን" />
+      </field>
+      <field id="keterodescription">
+        <phrase id="fldcaption" value="የቀጠሮ ማብራርያ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ፋይሉ የተከፈተበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="report4">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="melequtir">
+        <phrase id="fldcaption" value="መ/ቁጥር " />
+      </field>
+      <field id="ranke">
+        <phrase id="fldcaption" value="ማዕረግ " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="የተከሳሽ ስም" />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="filenumber">
+        <phrase id="fldcaption" value="መዝገብ ቁጥር " />
+      </field>
+      <field id="firdbet">
+        <phrase id="fldcaption" value="ፍርድ ቤት" />
+      </field>
+      <field id="chilotname">
+        <phrase id="fldcaption" value="የችሎት ስም" />
+      </field>
+      <field id="kirihidet">
+        <phrase id="fldcaption" value="የክርክሩ ሂደት " />
+      </field>
+      <field id="yekisaynet">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="keterodate">
+        <phrase id="fldcaption" value="የቀጠሮ ቀን" />
+      </field>
+      <field id="keteroreason">
+        <phrase id="fldcaption" value="የቀጠሮ ምክንያት" />
+      </field>
+      <field id="keterodescription">
+        <phrase id="fldcaption" value="የቀጠሮ ማብራርያ" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="ፆታ" />
+        <phrase id="fldtagvalue1" value="ወንድ" />
+        <phrase id="fldtagcaption1" value="ወንድ" />
+        <phrase id="fldtagvalue2" value="ሴት" />
+        <phrase id="fldtagcaption2" value="ሴት" />
+      </field>
+      <field id="tekesashbizat">
+        <phrase id="fldcaption" value="ብዛት" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ፋይሉ የተከፈተበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="report5">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="decisiondate">
+        <phrase id="fldcaption" value="የውሳኔ ቀን " />
+      </field>
+      <field id="decisiontype">
+        <phrase id="fldcaption" value="የውሳኔ ዓይነት " />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="kistype">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ" />
+      </field>
+      <field id="chilot">
+        <phrase id="fldcaption" value="ችሎት" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበ ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="report6">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="attorneyid">
+        <phrase id="fldcaption" value="የጠበቃ መ/ቁ " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="የጠበቃ ስም " />
+      </field>
+      <field id="phone">
+        <phrase id="fldcaption" value="ስልክ ቁጥር  " />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="አድራሽ" />
+      </field>
+      <field id="state">
+        <phrase id="fldcaption" value="ክልል " />
+      </field>
+      <field id="emptype">
+        <phrase id="fldcaption" value="የሰራተኛ ዓይነት" />
+        <phrase id="fldtagvalue1" value="ወታደር" />
+        <phrase id="fldtagcaption1" value="ወታደር" />
+        <phrase id="fldtagvalue2" value="ስቪል" />
+        <phrase id="fldtagcaption2" value="ስቪል" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="ተሻሻለ" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="crosstab1">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="melequtir">
+        <phrase id="fldcaption" value="መ/ቁጥር " />
+      </field>
+      <field id="ranke">
+        <phrase id="fldcaption" value="ማዕረግ " />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="የተከሳሽ ስም" />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="filenumber">
+        <phrase id="fldcaption" value="መዝገብ ቁጥር " />
+      </field>
+      <field id="firdbet">
+        <phrase id="fldcaption" value="ፍርድ ቤት" />
+      </field>
+      <field id="chilotname">
+        <phrase id="fldcaption" value="የችሎት ስም" />
+      </field>
+      <field id="kirihidet">
+        <phrase id="fldcaption" value="የክርክሩ ሂደት " />
+      </field>
+      <field id="yekisaynet">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="keteroreason">
+        <phrase id="fldcaption" value="የቀጠሮ ምክንያት" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="ፆታ" />
+        <phrase id="fldtagvalue1" value="ወንድ" />
+        <phrase id="fldtagcaption1" value="ወንድ" />
+        <phrase id="fldtagvalue2" value="ሴት" />
+        <phrase id="fldtagcaption2" value="ሴት" />
+      </field>
+      <field id="tekesashbizat">
+        <phrase id="fldcaption" value="ብዛት" />
+      </field>
+      <field id="keterodate">
+        <phrase id="fldcaption" value="የቀጠሮ ቀን" />
+      </field>
+      <field id="keterodescription">
+        <phrase id="fldcaption" value="የቀጠሮ ማብራርያ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ፋይሉ የተከፈተበት ቀን " />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ " />
+      </field>
+    </table>
+    <table id="dashboard1" />
+    <table id="crosstab2">
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="decisiondate">
+        <phrase id="fldcaption" value="የውሳኔ ቀን " />
+      </field>
+      <field id="decisiontype">
+        <phrase id="fldcaption" value="የውሳኔ ዓይነት " />
+      </field>
+      <field id="kistype">
+        <phrase id="fldcaption" value="የክስ ዓይነት " />
+      </field>
+      <field id="ez">
+        <phrase id="fldcaption" value="ዕዝ" />
+      </field>
+      <field id="chilot">
+        <phrase id="fldcaption" value="ችሎት" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ማብራርያ " />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="የተመዘገበ ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+    </table>
+    <table id="crosstab3">
+      <field id="appealid">
+        <phrase id="fldcaption" value="ቀ/ወ/መ/ቁ " />
+      </field>
+      <field id="appealdate">
+        <phrase id="fldcaption" value="የይግባኝ ቀን" />
+      </field>
+      <field id="mid">
+        <phrase id="fldcaption" value="መ/ቁ " />
+      </field>
+      <field id="rank">
+        <phrase id="fldcaption" value="ማዕረግ" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="ሰም " />
+      </field>
+      <field id="deptname">
+        <phrase id="fldcaption" value="ዕዝ " />
+      </field>
+      <field id="halafinet">
+        <phrase id="fldcaption" value="ሃላፊነት" />
+      </field>
+      <field id="crimstate">
+        <phrase id="fldcaption" value="የወንጀሉ ድንጋጌ" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="ቀ/ው/ፍ/ቤት ውሳኔ " />
+      </field>
+      <field id="midib">
+        <phrase id="fldcaption" value="ምድብ ችሎት" />
+      </field>
+      <field id="appealask">
+        <phrase id="fldcaption" value="ይግባኝ ጠያቂ አካል " />
+        <phrase id="fldtagvalue1" value="አቃቤ ህግ" />
+        <phrase id="fldtagcaption1" value="አቃቤ ህግ" />
+        <phrase id="fldtagvalue2" value="ተከሳሽ በራሱ" />
+        <phrase id="fldtagcaption2" value="ተከሳሽ በራሱ" />
+        <phrase id="fldtagvalue3" value="ተከሳሽ በጠበቃ" />
+        <phrase id="fldtagcaption3" value="ተከሳሽ በጠበቃ" />
+        <phrase id="fldtagvalue4" value="አቃቤ ህግ እና ተከሳሽ" />
+        <phrase id="fldtagcaption4" value="አቃቤ ህግ እና ተከሳሽ" />
+      </field>
+      <field id="appealdescription">
+        <phrase id="fldcaption" value="የይግባኝ ምክንያት  " />
+        <phrase id="fldtagvalue1" value="በቅጣት" />
+        <phrase id="fldtagcaption1" value="በቅጣት" />
+        <phrase id="fldtagvalue2" value="በጥፋተኝነት" />
+        <phrase id="fldtagcaption2" value="በጥፋተኝነት" />
+        <phrase id="fldtagvalue3" value="በቅጣት እና በጥፋተኝነት" />
+        <phrase id="fldtagcaption3" value="በቅጣት እና በጥፋተኝነት" />
+      </field>
+      <field id="appealdecision">
+        <phrase id="fldcaption" value="የይግባኝ ሰሚ ፍ/ቤት ውሳኔ" />
+        <phrase id="fldtagvalue1" value="በማፅናት" />
+        <phrase id="fldtagcaption1" value="በማፅናት" />
+        <phrase id="fldtagvalue2" value="በማሻሻል" />
+        <phrase id="fldtagcaption2" value="በማሻሻል" />
+        <phrase id="fldtagvalue3" value="በነፃ" />
+        <phrase id="fldtagcaption3" value="በነፃ" />
+        <phrase id="fldtagvalue4" value="በ195/1 መሰረት የተዘጋ" />
+        <phrase id="fldtagcaption4" value="በ195/1 መሰረት የተዘጋ" />
+        <phrase id="fldtagvalue5" value="ወደ ስር ፍ/ቤት የተመለሰ" />
+        <phrase id="fldtagcaption5" value="ወደ ስር ፍ/ቤት የተመለሰ" />
+        <phrase id="fldtagvalue6" value="በ193/ መሰረት የተዘጋ" />
+        <phrase id="fldtagcaption6" value="በ193/ መሰረት የተዘጋ" />
+      </field>
+      <field id="created_at">
+        <phrase id="fldcaption" value="ውሳኔ የተሰጠበት ቀን" />
+      </field>
+      <field id="crimedate">
+        <phrase id="fldcaption" value="ውሳኔ የተላከበት ቀን" />
+      </field>
+      <field id="updated_at">
+        <phrase id="fldcaption" value="የተሻሻለበት ቀን" />
+      </field>
+      <field id="updated_by">
+        <phrase id="fldcaption" value="መዝጋቢ" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+    </table>
+  </project>
+</ew-language>
